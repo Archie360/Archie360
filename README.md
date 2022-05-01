@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Archie360
-- 👀 I’m interested in ...Maths And Physics
-- 🌱 I’m currently learning ...C Programming Language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Physics and Theoretical Computer Science
+- 🌱 I’m currently learning ...Machine Learning
+- 💞️ I’m looking to collaborate on ...Open-source projects
 - 📫 How to reach me ...
 
 <!---
