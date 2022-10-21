@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 =======
 - 👋 Hi, I’m @Archie360
@@ -11,4 +11,4 @@
 Archie360/Archie360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
->>>>>>> 927e5d4c34d4cb7ef1ef2d362de772675809e274
+
