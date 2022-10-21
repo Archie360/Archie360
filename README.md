@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Archie360
-- 👀 I’m interested in ...Physics and Theoretical Computer Science
-- 🌱 I’m currently learning ...Machine Learning
-- 💞️ I’m looking to collaborate on ...Open-source projects
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Theoretical Physics
+- 🌱 I’m currently learning ...Nothing!
+- 💞️ I’m looking to collaborate on ...Open source projects
+- 📫 Available via twitter
 
 <!---
 Archie360/Archie360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
