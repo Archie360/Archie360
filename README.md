@@ -5,7 +5,7 @@
 - 👀 I’m interested in ...Women
 - 🌱 I’m currently learning ...Nothing!
 - 💞️ I’m looking to collaborate on ...Open source projects
-- 📫 Available via twitter
+- 📫 Available via twitter @ArchieGenius360
 
 <!---
 Archie360/Archie360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
