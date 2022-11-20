@@ -2,7 +2,7 @@
 
 =======
 - 👋 Hi, I’m @Archie360
-- 👀 I’m interested in ...Women
+- 👀 I’m interested in ...Blockchain Dev
 - 🌱 I’m currently learning ...Nothing!
 - 💞️ I’m looking to collaborate on ...Open source projects
 - 📫 Available via twitter @ArchieGenius360
