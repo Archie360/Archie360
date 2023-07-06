@@ -1,2 +1,2 @@
-<h1>Archie360</h1>
+<h3>Archie360</h3>
 I am an Electronics Engineering Student at IIT BHU
