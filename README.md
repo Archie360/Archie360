@@ -7,19 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/archiegenius360" target="blank"><img src="https://img.shields.io/twitter/follow/archiegenius360?logo=twitter&style=for-the-badge" alt="archiegenius360" /></a> </p>
 
-- 🔭 I’m currently working on **Magnetohydrodynamics of the Sun**
 
-- 🌱 I’m currently learning **Quantum Mechanics**
-
-- 👯 I’m looking to collaborate on **Physics of the Standard Model**
-
-- 🤝 I’m looking for help with **Research Collaborationz**
-
-- 💬 Ask me about **Anything Physics**
-
-- 📫 How to reach me **archigenius2002@gmail.com**
-
-- ⚡ Fun fact **Physics is Sexy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
